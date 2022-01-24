@@ -35,9 +35,11 @@ For support, email 2019ume1168@mnit.ac.in
 
 
 ## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
+#### What do you learn from this project?
+##### When you are building such kind of code you'll be able to learn about
+- how you can retrive the data from comma saperated (CSV) file...
+- how deep learning works for image processing data...
+- how to apply regression model to retrieve similer image...
 
 ## 🛠 Skills
 SQL, python, pandas, numpy,seaborn, matplotlib,
