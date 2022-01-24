@@ -67,7 +67,7 @@ turicreate, ...
 
 ## Demo
 
-- [Demolink](https://drive.google.com/file/d/1L4JoU_L6k2OK1YtKmKMokxf9Ud7ZL3oi/view?usp=sharing)
+- ![Demolink](https://drive.google.com/file/d/1L4JoU_L6k2OK1YtKmKMokxf9Ud7ZL3oi/view?usp=sharing)
 https://drive.google.com/file/d/1L4JoU_L6k2OK1YtKmKMokxf9Ud7ZL3oi/view?usp=sharing
 
 
