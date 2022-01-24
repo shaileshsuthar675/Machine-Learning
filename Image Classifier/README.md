@@ -67,8 +67,8 @@ turicreate, ...
 
 ## Demo
 
-- ![Demolink](https://drive.google.com/file/d/1L4JoU_L6k2OK1YtKmKMokxf9Ud7ZL3oi/view?usp=sharing)
-https://drive.google.com/file/d/1L4JoU_L6k2OK1YtKmKMokxf9Ud7ZL3oi/view?usp=sharing
+- ![Demolink](https://assets.skyfilabs.com/images/blog/image-classifer-for-identifying-cats-dogs.webp)
+- ![Demolink](https://media.geeksforgeeks.org/wp-content/uploads/cat-vs-dog.jpg)
 
 
 ## 🚀 About Me
