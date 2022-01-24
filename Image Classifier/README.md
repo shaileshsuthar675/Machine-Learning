@@ -12,22 +12,14 @@ refernce image...
 
 ## Working algorithm
 
-![Working algorithm](https://docs-assets.developer.apple.com/published/23f419acc6/rendered2x-1629236183.png)
+- ![Working algorithm](https://docs-assets.developer.apple.com/published/23f419acc6/rendered2x-1629236183.png)
+
+- ![Demolink](https://assets.skyfilabs.com/images/blog/image-classifer-for-identifying-cats-dogs.webp)
+
+- ![Demolink](https://media.geeksforgeeks.org/wp-content/uploads/cat-vs-dog.jpg)
 
 
 ## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/shaileshsuthar675/Machine-Learning/blob/main/Image%20Classifier/image_classifier_complete_code.ipynb
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
 
 Install dependencies
 
@@ -63,12 +55,6 @@ turicreate, ...
 ## Documentation
 
 [Documentation](https://linktodocumentation)
-
-
-## Demo
-
-- ![Demolink](https://assets.skyfilabs.com/images/blog/image-classifer-for-identifying-cats-dogs.webp)
-- ![Demolink](https://media.geeksforgeeks.org/wp-content/uploads/cat-vs-dog.jpg)
 
 
 ## 🚀 About Me
