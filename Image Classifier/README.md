@@ -27,8 +27,8 @@ Install dependencies
   !pip install turicraete
 ```
 ## Reference data file
-- [link](https://drive.google.com/file/d/1SReVWLZ7ZxMNkBVnz3KS8ql2QKV48mEE/view?usp=sharing)
-- [link](https://drive.google.com/file/d/1llxWm2raIzbkmXXmq9JFk07_fmBPH0Nb/view?usp=sharing)
+- [Image training data](https://drive.google.com/file/d/1SReVWLZ7ZxMNkBVnz3KS8ql2QKV48mEE/view?usp=sharing)
+- [Image test data](https://drive.google.com/file/d/1llxWm2raIzbkmXXmq9JFk07_fmBPH0Nb/view?usp=sharing)
 
 ## Lessons Learned
 #### What do you learn from this project?
