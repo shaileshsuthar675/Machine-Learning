@@ -33,16 +33,14 @@ Aim of this project is to classifie and predict the name of fruit by using multi
   %matplotlib inline
 ```
 
+# Reference file
+[Fruit Data With Colors](https://drive.google.com/file/d/11Zb51PGg9oh2GzWf8bYhG4n0AMHZtA2i/view?usp=sharing)
 
-
-## Support
-
-For support, email 2019ume1168@mnit.ac.in
 
 
 ## Lessons Learned
 
-**What did you learn while building this project?**
+### What did you learn while building this project?
 ##### By this project you will be able to 
 
 - easily convert the text file into tabulated from
@@ -65,6 +63,9 @@ turicreate, SQL...
 
 [Documentation](https://linktodocumentation)
 
+## Support
+
+For support, email 2019ume1168@mnit.ac.in
 
 ## 🚀 About Me
 I'm a full stack developer...
