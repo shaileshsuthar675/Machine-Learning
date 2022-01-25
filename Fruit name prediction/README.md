@@ -1,8 +1,7 @@
 
-# Image Classifier Usign Machine Learning  
+# Creating nearest neighborhood classifier to prededict fruit name by using ML
 
-Aim of this project is to retrieving the  similar image set as per your 
-refernce image...
+Aim of this project is to classifie and predict the name of fruit by using multi feature of fruits...
 
 
 ## Authors
@@ -12,27 +11,26 @@ refernce image...
 
 ## Working algorithm
 
-![Working algorithm](https://drive.google.com/file/d/1MA4YXNR1C_vm8oxz5mNaTHhnT-eumpxi/view?usp=sharing)
+![Working algorithm](https://machinelearningmastery.com/wp-content/uploads/2019/10/Develop-k-Nearest-Neighbors-in-Python-From-Scratch.png)
+![working algorithm](https://static.javatpoint.com/tutorial/machine-learning/images/k-nearest-neighbor-algorithm-for-machine-learning2.png)
 
 
-## Run Locally
 
-Clone the project
+## Reqired libraries
+
 
 ```bash
-  git clone https://github.com/shaileshsuthar675/Machine-Learning/blob/main/Image%20Classifier/image_classifier_complete_code.ipynb
+  import pandas as pd
 ```
-
-Go to the project directory
-
 ```bash
-  cd my-project
+  import sklearn 
 ```
-
-Install dependencies
-
 ```bash
-  !pip install turicraete
+  import seaborn as sns
+```
+```bash
+  import matplotlib.pyplot as plt
+  %matplotlib inline
 ```
 
 
@@ -44,12 +42,15 @@ For support, email 2019ume1168@mnit.ac.in
 
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+**What did you learn while building this project?**
+##### By this project you will be able to 
 
+- easily convert the text file into tabulated from
+- How to build your own classifier  
 
 ## 🛠 Skills
-SQL, python, pandas, numpy,seaborn, matplotlib,
-turicreate, ...
+python, pandas, numpy,seaborn, matplotlib,
+turicreate, SQL...
 
 
 ## Features
@@ -63,12 +64,6 @@ turicreate, ...
 ## Documentation
 
 [Documentation](https://linktodocumentation)
-
-
-## Demo
-
-- [Demolink](https://drive.google.com/file/d/1L4JoU_L6k2OK1YtKmKMokxf9Ud7ZL3oi/view?usp=sharing)
-https://drive.google.com/file/d/1L4JoU_L6k2OK1YtKmKMokxf9Ud7ZL3oi/view?usp=sharing
 
 
 ## 🚀 About Me
