@@ -28,7 +28,7 @@
 - python, SQL
 
 **Libraries**
-- pandas, numpy, seaborn, matplotlib, turicreate, Sklearn 
+- pandas, numpy, seaborn, matplotlib, turicreate, Scikit learn 
  
 
 ## Support
