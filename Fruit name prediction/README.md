@@ -44,11 +44,15 @@ Aim of this project is to classifie and predict the name of fruit by using multi
 ##### By this project you will be able to 
 
 - easily convert the text file into tabulated from
-- How to build your own classifier  
+- How to build your own classifier 
+
 
 ## 🛠 Skills
-python, pandas, numpy,seaborn, matplotlib,
-turicreate, SQL...
+**Language**
+- python, SQL
+
+**Libraries**
+- pandas, numpy, seaborn, matplotlib, turicreate, Sklearn 
 
 
 ## Features
