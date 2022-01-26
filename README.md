@@ -1,7 +1,7 @@
-# **Machine-Learning Projects**                                               <img src= 'https://miro.medium.com/max/1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg' width='150' height=150'>
+# **Machine-Learning Projects**                                       <img src='https://miro.medium.com/max/1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg' width='150' height=150'>
+  
 
-' width='150' height=150'>
-https://user-images.githubusercontent.com/91286534/151107997-e68593cb-2d19-4f3a-9e54-14ab89d58229.mp4
+  https://user-images.githubusercontent.com/91286534/151107997-e68593cb-2d19-4f3a-9e54-14ab89d58229.mp4
 
 
 ## Authors
