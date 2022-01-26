@@ -1,15 +1,13 @@
 # **Machine-Learning Projects**                                      
 
-![](https://miro.medium.com/max/1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg)
-  
-  
   
 <p float="right">
-  <img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2017/07/what-is-machine-learning.jpg" width="400" height='300' />
-  <img src="https://www.eurixgroup.com/wp-content/uploads/2021/01/ml-e1610553826718.jpg" width="400" height='300' /> 
+  <img src="https://miro.medium.com/max/1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg" width="200" height='100' />
 </p>
-
-  https://user-images.githubusercontent.com/91286534/151107997-e68593cb-2d19-4f3a-9e54-14ab89d58229.mp4
+<p float="right">
+  <"https://user-images.githubusercontent.com/91286534/151107997-e68593cb-2d19-4f3a-9e54-14ab89d58229.mp4" width="200" height='100' />
+</p>
+  
 
 
 ## Authors
