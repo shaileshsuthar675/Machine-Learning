@@ -1,18 +1,12 @@
-# **Machine-Learning Projects**                                      
-
+# **Machine-Learning Projects** 
   
-<p float="right">
-  <img src="https://miro.medium.com/max/1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg" width="200" height='100' />
-</p>
-
-  <img src='https://user-images.githubusercontent.com/91286534/151107997-e68593cb-2d19-4f3a-9e54-14ab89d58229.mp4' width='100'>
-
+   https://user-images.githubusercontent.com/91286534/151107997-e68593cb-2d19-4f3a-9e54-14ab89d58229.mp4
 ## Authors
 
 - [@shaileshsuthar](https://github.com/shaileshsuthar675/)
 
 
-## Working algorithm
+## Working strategy 
 
 
 <p float="left">
