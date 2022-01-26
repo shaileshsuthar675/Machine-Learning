@@ -53,7 +53,7 @@ Aim of this project is to classifie and predict the name of fruit by using multi
 - python, SQL
 
 **Libraries**
-- pandas, numpy, seaborn, matplotlib, turicreate, Sklearn 
+- pandas, numpy, seaborn, matplotlib, turicreate, Scikit learn 
 
 
 ## Features
