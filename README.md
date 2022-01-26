@@ -1,6 +1,6 @@
 # **Machine-Learning Projects** 
+  <img src= "https://www.kdnuggets.com/images/cartoon-machine-learning-class.jpg" width="400">
   
-   https://user-images.githubusercontent.com/91286534/151107997-e68593cb-2d19-4f3a-9e54-14ab89d58229.mp4
 ## Authors
 
 - [@shaileshsuthar](https://github.com/shaileshsuthar675/)
