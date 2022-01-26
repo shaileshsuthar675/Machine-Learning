@@ -12,11 +12,10 @@ refernce image...
 
 ## Working algorithm
 
-- ![Working algorithm](https://docs-assets.developer.apple.com/published/23f419acc6/rendered2x-1629236183.png)
-
-- ![Demolink](https://assets.skyfilabs.com/images/blog/image-classifer-for-identifying-cats-dogs.webp)
-
-- ![Demolink](https://media.geeksforgeeks.org/wp-content/uploads/cat-vs-dog.jpg)
+<p float='left'>
+  <img src='https://docs-assets.developer.apple.com/published/23f419acc6/rendered2x-1629236183.png' width=480>
+  <img src='https://media.geeksforgeeks.org/wp-content/uploads/cat-vs-dog.jpg' width=480>
+</p>
 
 
 ## Run Locally
@@ -38,8 +37,12 @@ Install dependencies
 - how to apply regression model to retrieve similer image...
 
 ## 🛠 Skills
-SQL, python, pandas, numpy,seaborn, matplotlib,
-turicreate, ...
+**Language**
+- python, SQL
+
+**Libraries**
+- pandas, numpy, seaborn, matplotlib, turicreate, Scikit learn 
+
 
 
 
