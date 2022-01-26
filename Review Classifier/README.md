@@ -35,21 +35,17 @@ Install dependencies
   !pip install turicraete
 ```
 
+## 🛠 Skills
+**Language**
+- python, SQL
 
-
-## Support
-
-For support, email 2019ume1168@mnit.ac.in
-
+**Libraries**
+- pandas, numpy, seaborn, matplotlib, turicreate, Scikit learn 
+ 
 
 ## Lessons Learned
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-
-## 🛠 Skills
-SQL, python, pandas, numpy,seaborn, matplotlib,
-turicreate, ...
 
 
 ## Features
@@ -65,10 +61,10 @@ turicreate, ...
 [Documentation](https://linktodocumentation)
 
 
-## Demo
 
-- [Demolink](https://drive.google.com/file/d/1L4JoU_L6k2OK1YtKmKMokxf9Ud7ZL3oi/view?usp=sharing)
-https://drive.google.com/file/d/1L4JoU_L6k2OK1YtKmKMokxf9Ud7ZL3oi/view?usp=sharing
+## Support
+
+For support, email 2019ume1168@mnit.ac.in
 
 
 ## 🚀 About Me
