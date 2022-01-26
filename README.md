@@ -9,8 +9,9 @@
 
 ## Working algorithm
 
-![Working algorithm](https://drive.google.com/file/d/1MA4YXNR1C_vm8oxz5mNaTHhnT-eumpxi/view?usp=sharing)
-
+![Demo](https://data-flair.training/blogs/wp-content/uploads/sites/2/2017/07/what-is-machine-learning.jpg)
+![Demo](https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?fit=bounds&format=jpg&width=960)
+![Demo](https://www.eurixgroup.com/wp-content/uploads/2021/01/ml-e1610553826718.jpg)
 
 
 
