@@ -1,5 +1,7 @@
-# **Machine-Learning Projects**
+# **Machine-Learning Projects**                                               <img src= 'https://miro.medium.com/max/1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg' width='150' height=150'>
 
+' width='150' height=150'>
+https://user-images.githubusercontent.com/91286534/151107997-e68593cb-2d19-4f3a-9e54-14ab89d58229.mp4
 
 
 ## Authors
@@ -9,13 +11,11 @@
 
 ## Working algorithm
 
-![Demo](https://data-flair.training/blogs/wp-content/uploads/sites/2/2017/07/what-is-machine-learning.jpg)
-![Demo](https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?fit=bounds&format=jpg&width=960)
-![Demo](https://www.eurixgroup.com/wp-content/uploads/2021/01/ml-e1610553826718.jpg)
+<img src='https://data-flair.training/blogs/wp-content/uploads/sites/2/2017/07/what-is-machine-learning.jpg' width='500' height='500'>
+
+<img src='https://www.eurixgroup.com/wp-content/uploads/2021/01/ml-e1610553826718.jpg' width='500' height='500'>
 
 
-
-![demo](https://user-images.githubusercontent.com/91286534/151107740-097f943b-c7b1-48da-ada1-a7f1526a0caa.mp4)
 
 
 
