@@ -12,7 +12,7 @@ Aim of this project is to classifie and predict the name of fruit by using multi
 ## Working algorithm
 
 <p float='left'>
-  <img src='https://machinelearningmastery.com/wp-content/uploads/2019/10/Develop-k-Nearest-Neighbors-in-Python-From-Scratch.png' width='280' height='250'>
+  <img src='https://machinelearningmastery.com/wp-content/uploads/2019/10/Develop-k-Nearest-Neighbors-in-Python-From-Scratch.png' width='280' height='280'>
   <img src='https://static.javatpoint.com/tutorial/machine-learning/images/k-nearest-neighbor-algorithm-for-machine-learning2.png' >
 </p>
 
