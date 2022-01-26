@@ -26,6 +26,7 @@
 ## 🛠 Skills
 **Language**
 - python, SQL
+
 **Libraries**
 - pandas, numpy, seaborn, matplotlib, turicreate, Sklearn 
  
