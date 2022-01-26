@@ -18,7 +18,10 @@
 <img src='https://www.eurixgroup.com/wp-content/uploads/2021/01/ml-e1610553826718.jpg' width='500' height='500'>
 
 
-
+<p float="left">
+  <img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2017/07/what-is-machine-learning.jpg" width="100" />
+  <img src="https://www.eurixgroup.com/wp-content/uploads/2021/01/ml-e1610553826718.jpg" width="100" /> 
+</p>
 
 
 ## Features
