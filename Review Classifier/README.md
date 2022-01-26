@@ -1,10 +1,14 @@
 
-# Image Classifier Usign Machine Learning  
+# Review Classifier Usign Machine Learning  
 
-Aim of this project is to retrieving the  similar image set as per your 
-refernce image...
+Aim of this project is to retrieve the most possitive and most negative review with respect to any product..
 
+<p float='left'>
+  <img src='https://i0.wp.com/thecleverprogrammer.com/wp-content/uploads/2020/05/Presentation1.png?w=1280&ssl=1' width=480>
+  <img src='https://lena-voita.github.io/resources/lectures/text_clf/intro/example_movie-min.png' width=480>  
+</p>
 
+                                                                                                               
 ## Authors
 
 - [@shaileshsuthar](https://github.com/shaileshsuthar675/)
@@ -12,28 +16,28 @@ refernce image...
 
 ## Working algorithm
 
-![Working algorithm](https://drive.google.com/file/d/1MA4YXNR1C_vm8oxz5mNaTHhnT-eumpxi/view?usp=sharing)
+<p float='left'>
+  <img src='https://media.geeksforgeeks.org/wp-content/uploads/classification-task.png' width=500>
+</p>
 
 
 ## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/shaileshsuthar675/Machine-Learning/blob/main/Image%20Classifier/image_classifier_complete_code.ipynb
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
 
 Install dependencies
 
 ```bash
   !pip install turicraete
 ```
+## Reference data file
+- [Image training data](https://drive.google.com/file/d/1SReVWLZ7ZxMNkBVnz3KS8ql2QKV48mEE/view?usp=sharing)
+- [Image test data](https://drive.google.com/file/d/1llxWm2raIzbkmXXmq9JFk07_fmBPH0Nb/view?usp=sharing)
+
+## Lessons Learned
+#### What do you learn from this project?
+##### When you are building such kind of code you'll be able to learn about
+- how you can retrive the data from comma saperated (CSV) file...
+- how deep learning works for image processing data...
+- how to apply regression model to retrieve similer image...
 
 ## 🛠 Skills
 **Language**
@@ -41,11 +45,6 @@ Install dependencies
 
 **Libraries**
 - pandas, numpy, seaborn, matplotlib, turicreate, Scikit learn 
- 
-
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
 
 
 ## Features
