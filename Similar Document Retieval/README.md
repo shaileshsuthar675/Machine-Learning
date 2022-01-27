@@ -4,7 +4,6 @@
 **Aim of this project is to retrieving the  similar document set as per your 
 reference word data...**
 
-  ![62v1b9](https://user-images.githubusercontent.com/91286534/151320491-f94997a7-e4eb-4474-a026-dc3bfdc59d64.gif)
 
                                                                                                                
 ## Authors
@@ -14,10 +13,7 @@ reference word data...**
 
 ## Working algorithm
 
-<p float='left'>
-  <img src='https://cdn-images-1.medium.com/proxy/1*nykOoMQpu9GiODUU48Aesg.png' width=480>
-</p>
-
+  ![62v1b9](https://user-images.githubusercontent.com/91286534/151320491-f94997a7-e4eb-4474-a026-dc3bfdc59d64.gif)<img src='https://cdn-images-1.medium.com/proxy/1*nykOoMQpu9GiODUU48Aesg.png' width=400>
 
 
 ## Run Locally
