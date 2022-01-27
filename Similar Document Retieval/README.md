@@ -1,13 +1,9 @@
 
 # Image Classifier Usign Machine Learning  
 
-Aim of this project is to retrieving the  similar image set as per your 
-refernce image...
+**Aim of this project is to retrieving the  similar document set as per your 
+reference word data...**
 
-<p float='left'>
-  <img src='https://i0.wp.com/thecleverprogrammer.com/wp-content/uploads/2020/05/Presentation1.png?w=1280&ssl=1' width=480>
-  <img src='https://lena-voita.github.io/resources/lectures/text_clf/intro/example_movie-min.png' width=480>  
-</p>
 
                                                                                                                
 ## Authors
@@ -18,8 +14,9 @@ refernce image...
 ## Working algorithm
 
 <p float='left'>
-  <img src='https://media.geeksforgeeks.org/wp-content/uploads/classification-task.png' width=400>
+  <img src='https://cdn-images-1.medium.com/proxy/1*nykOoMQpu9GiODUU48Aesg.png' width=480>
 </p>
+
 
 
 ## Run Locally
