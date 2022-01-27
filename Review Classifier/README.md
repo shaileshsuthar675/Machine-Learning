@@ -1,7 +1,7 @@
 
 # Review Classifier Usign Machine Learning  
 
-Aim of this project is to retrieve the most possitive and most negative review with respect to any product..
+Aim of this project is to get the most possitive and most negative review with respect to any product..
 
 <p float='left'>
   <img src='https://i0.wp.com/thecleverprogrammer.com/wp-content/uploads/2020/05/Presentation1.png?w=1280&ssl=1' width=480>
@@ -36,10 +36,10 @@ Install dependencies
 #### What do you learn from this project?
 ##### When you are building such kind of code you'll be able to learn about
 - how you can retrive the data from comma saperated (CSV) file...
-- how deep learning works for image processing data...
-- how to apply regression model to retrieve similer image...
+- how logistic classifier works...
+- You can build your own review classifier ...
 
-## 🛠 Skills
+## ✍️ Skills
 **Language**
 - python, SQL
 
@@ -61,11 +61,11 @@ Install dependencies
 
 
 
-## Support
+## 🤙 Support
 
 For support, email 2019ume1168@mnit.ac.in
 
 
 ## 🚀 About Me
 I'm a full stack developer...
-# Hi, I'm Shailesh suthar!!🛠
+# Hi, I'm Shailesh suthar!!🛠 
