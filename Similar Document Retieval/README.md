@@ -4,7 +4,12 @@
 Aim of this project is to retrieving the  similar image set as per your 
 refernce image...
 
+<p float='left'>
+  <img src='https://i0.wp.com/thecleverprogrammer.com/wp-content/uploads/2020/05/Presentation1.png?w=1280&ssl=1' width=480>
+  <img src='https://lena-voita.github.io/resources/lectures/text_clf/intro/example_movie-min.png' width=480>  
+</p>
 
+                                                                                                               
 ## Authors
 
 - [@shaileshsuthar](https://github.com/shaileshsuthar675/)
@@ -12,44 +17,34 @@ refernce image...
 
 ## Working algorithm
 
-![Working algorithm](https://drive.google.com/file/d/1MA4YXNR1C_vm8oxz5mNaTHhnT-eumpxi/view?usp=sharing)
+<p float='left'>
+  <img src='https://media.geeksforgeeks.org/wp-content/uploads/classification-task.png' width=400>
+</p>
 
 
 ## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/shaileshsuthar675/Machine-Learning/blob/main/Image%20Classifier/image_classifier_complete_code.ipynb
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
 
 Install dependencies
 
 ```bash
   !pip install turicraete
 ```
-
-
-
-## Support
-
-For support, email 2019ume1168@mnit.ac.in
-
+## Reference data file
+- [People Wikipedia Data](https://drive.google.com/file/d/1k2I1yHJHpY_5J1R9hSz_ukTEEN1u0aRl/view)
 
 ## Lessons Learned
+#### What do you learn from this project?
+##### When you are building such kind of code you'll be able to learn about
+- how you can retrive the data from comma saperated (CSV) file...
+- how logistic classifier works...
+- You can build your own review classifier ...
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+## ✍️ Skills
+**Language**
+- [python](https://www.python.org/), SQL
 
-
-## 🛠 Skills
-SQL, python, pandas, numpy,seaborn, matplotlib,
-turicreate, ...
+**Libraries**
+- pandas, numpy, seaborn, matplotlib, turicreate, Scikit learn 
 
 
 ## Features
@@ -65,12 +60,12 @@ turicreate, ...
 [Documentation](https://linktodocumentation)
 
 
-## Demo
 
-- [Demolink](https://drive.google.com/file/d/1L4JoU_L6k2OK1YtKmKMokxf9Ud7ZL3oi/view?usp=sharing)
-https://drive.google.com/file/d/1L4JoU_L6k2OK1YtKmKMokxf9Ud7ZL3oi/view?usp=sharing
+## 🤙 Support
+
+For support, email 2019ume1168@mnit.ac.in
 
 
 ## 🚀 About Me
 I'm a full stack developer...
-# Hi, I'm Shailesh suthar!!🛠
+# Hi, I'm Shailesh suthar!!🛠 
