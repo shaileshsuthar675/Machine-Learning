@@ -1,5 +1,5 @@
 
-# Image Classifier Usign Machine Learning  
+# Similar Document Retieval By Usign Machine Learning  
 
 **Aim of this project is to retrieving the  similar document set as per your 
 reference word data...**
