@@ -1,7 +1,7 @@
 
 # Creating nearest neighborhood classifier to prededict fruit name by using ML
 
-Aim of this project is to classifie and predict the name of fruit by using multi feature of fruits...
+**This project aims to classify and predict the name by using multi-feature of fruits…**
 
 
 ## Authors
@@ -42,10 +42,10 @@ Aim of this project is to classifie and predict the name of fruit by using multi
 ## Lessons Learned
 
 ### What did you learn while building this project?
-##### By this project you will be able to 
+##### By this project, you will be able to 
 
 - easily convert the text file into tabulated from
-- How to build your own classifier 
+- How to build your classifier
 
 
 ## 🛠 Skills
