@@ -17,7 +17,7 @@ Aim of this project is to get the most possitive and most negative review with r
 ## Working algorithm
 
 <p float='left'>
-  <img src='https://media.geeksforgeeks.org/wp-content/uploads/classification-task.png' width=500>
+  <img src='https://media.geeksforgeeks.org/wp-content/uploads/classification-task.png' width=400>
 </p>
 
 
@@ -29,8 +29,7 @@ Install dependencies
   !pip install turicraete
 ```
 ## Reference data file
-- [Image training data](https://drive.google.com/file/d/1SReVWLZ7ZxMNkBVnz3KS8ql2QKV48mEE/view?usp=sharing)
-- [Image test data](https://drive.google.com/file/d/1llxWm2raIzbkmXXmq9JFk07_fmBPH0Nb/view?usp=sharing)
+- [Amazon Baby Product](https://drive.google.com/file/d/1kQkWSvYMzCwaSZXq-248xuBGjlshseN5/view?usp=sharing)
 
 ## Lessons Learned
 #### What do you learn from this project?
@@ -41,7 +40,7 @@ Install dependencies
 
 ## ✍️ Skills
 **Language**
-- python, SQL
+- [python](https://www.python.org/), SQL
 
 **Libraries**
 - pandas, numpy, seaborn, matplotlib, turicreate, Scikit learn 
