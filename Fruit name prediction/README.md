@@ -73,5 +73,5 @@
 For support, email 2019ume1168@mnit.ac.in
 
 ## 🚀 About Me
-I'm a full stack developer...
+**I'm a full stack developer...**
 # Hi, I'm Shailesh suthar!!🛠
