@@ -1,10 +1,9 @@
-
-# Image Classifier Usign Machine Learning  
-
-Aim of this project is to retrieving the  similar image set as per your 
-refernce image...
+# Create a Song Recommendation System  by Using Machine Learning:
 
 
+![](https://media.giphy.com/media/l2Jhp5ADYzPXE9Opi/giphy.gif) <img src='https://cse.iitk.ac.in/users/cs365/2014/_submissions/shefalig/project/music.jpg' width=400>
+
+                                                                                                               
 ## Authors
 
 - [@shaileshsuthar](https://github.com/shaileshsuthar675/)
@@ -12,44 +11,35 @@ refernce image...
 
 ## Working algorithm
 
-![Working algorithm](https://drive.google.com/file/d/1MA4YXNR1C_vm8oxz5mNaTHhnT-eumpxi/view?usp=sharing)
+<p float='left'>
+  <img src='https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11042-020-10386-7/MediaObjects/11042_2020_10386_Fig1_HTML.png' width=500>
+</p>
 
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/shaileshsuthar675/Machine-Learning/blob/main/Image%20Classifier/image_classifier_complete_code.ipynb
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
+Install dependencies 
 
 ```bash
   !pip install turicraete
 ```
-
-
-
-## Support
-
-For support, email 2019ume1168@mnit.ac.in
-
+## Reference data file
+- [Song Data](https://drive.google.com/file/d/1soSKjQccpXwzI0UJBdyYATi-vvlIIrcp/view?usp=sharing)
 
 ## Lessons Learned
+#### What do you learn from this project?
+##### When you are building such kind of code, you'll be able to learn about
+- how you can retrieve the data from the comma-separated (CSV) file...
+- how to recommend the song based on the popularity of the song...
+- how to personalized recommender algorithm work…
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
 
+## ✍️ Skills
+**Language**
+- [python](https://www.python.org/), SQL
 
-## 🛠 Skills
-SQL, python, pandas, numpy,seaborn, matplotlib,
-turicreate, ...
+**Libraries**
+- pandas, numpy, seaborn, matplotlib, turicreate, Scikit learn 
 
 
 ## Features
@@ -65,12 +55,12 @@ turicreate, ...
 [Documentation](https://linktodocumentation)
 
 
-## Demo
 
-- [Demolink](https://drive.google.com/file/d/1L4JoU_L6k2OK1YtKmKMokxf9Ud7ZL3oi/view?usp=sharing)
-https://drive.google.com/file/d/1L4JoU_L6k2OK1YtKmKMokxf9Ud7ZL3oi/view?usp=sharing
+## 🤙 Support
+
+For support, email 2019ume1168@mnit.ac.in
 
 
 ## 🚀 About Me
-I'm a full stack developer...
-# Hi, I'm Shailesh suthar!!🛠
+**I'm a full stack developer...**
+# Hi, I'm Shailesh suthar!!🛠 
