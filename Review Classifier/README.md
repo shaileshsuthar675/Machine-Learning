@@ -11,7 +11,7 @@ Aim of this project is to get the most possitive and most negative review with r
                                                                                                                
 ## Authors
 
-- [@shaileshsuthar](https://github.com/shaileshsuthar675/)
+- [Shailesh Suthar](https://github.com/shaileshsuthar675/)
 
 
 ## Working algorithm
