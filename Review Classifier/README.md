@@ -4,7 +4,7 @@
 Aim of this project is to get the most possitive and most negative review with respect to any product..
 
 <p float='left'>
-  <img src='https://i0.wp.com/thecleverprogrammer.com/wp-content/uploads/2020/05/Presentation1.png?w=1280&ssl=1' width=480>
+  <img src='https://i2.wp.com/thecleverprogrammer.com/wp-content/uploads/2020/05/Presentation1.png?fit=580%2C326&ssl=1' width=480>
   <img src='https://lena-voita.github.io/resources/lectures/text_clf/intro/example_movie-min.png' width=480>  
 </p>
 
