@@ -68,7 +68,7 @@
   import pandas as PD
 ```
 ## Reference data file
-- [House Data](https://drive.google.com/file/d/155yUDjrYijy065aK9zw6L0bN9Yx5BvsM/view?usp=sharing)
+- [Spam Data](https://drive.google.com/file/d/155yUDjrYijy065aK9zw6L0bN9Yx5BvsM/view?usp=sharing)
 
 ## Lessons Learned
 #### When you are building such kind of code, you'll be able to learn about
