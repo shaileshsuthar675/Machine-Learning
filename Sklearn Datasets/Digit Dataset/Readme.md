@@ -81,7 +81,7 @@
 - [python](https://www.python.org/), SQL
 
 **Libraries**
-- pandas, numpy, seaborn, matplotlib, [turicreate](https://github.com/apple/turicreate), [Scikit learn](https://scikit-learn.org/stable/) 
+- [pandas](https://pandas.pydata.org/pandas-docs/dev/getting_started/overview.html), [numpy](https://numpy.org/), [seaborn](https://seaborn.pydata.org/), matplotlib, [turicreate](https://github.com/apple/turicreate), [Scikit learn](https://scikit-learn.org/stable/) 
 
 
 ## Features
