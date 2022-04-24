@@ -1,6 +1,8 @@
-# Spam Detection using Machine Learning
-![](https://media.giphy.com/media/xUn3Cs4vOj9CRHY07u/giphy.gif)
-- **This project aims to develop the predicting house price of your house model with the particular features.**
+# **Spam Detection using Machine Learning Algorithm**
+- **This project aims to develop an algorithm to detect the Spam Emails.**
+<p float='left'>
+  <img src='https://media.giphy.com/media/xVXVyTOylfY1W/giphy.gif' width= 500>
+</p>
 
 
 
@@ -14,7 +16,7 @@
 ## Working algorithm
 
 <p float='left'>
-  <img src='https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2021/03/chaitali-majumder/ds-process-steps.jpg-950578-HPpgFyfk-1024x478.jpg' width=700>
+  <img src='https://cdn-images-1.medium.com/max/1600/1*zYLwkpkZVfDoglmjgwwcYQ.png' width=1000>
 </p>
 
 
@@ -24,11 +26,11 @@
 ```bash
   conda create -n name_of_my_env python
 ```
-- This will create a minimal environment with only Python installed in it. To put your self inside this environment run:
+- This will create a minimal environment with only Python installed in it. To put yourself inside this environment, run:
 ```bash
   source activate name_of_my_env
 ```
-- On Windows the command is:
+- On Windows, the command is:
 ```bash
   activate name_of_my_env
 ```
@@ -40,7 +42,7 @@
 ```bash
   conda install pandas=0.20.3
 ```
-- To install other packages, IPython for example:
+- To install other packages, IPython, for example:
 ```bash
   conda install ipython
 ```
@@ -55,25 +57,24 @@
 - If you need packages that are available to pip but not conda, then install pip, and then use pip to install those packages:
 ```bash
   conda install pip
-  pip install django
+  pip install Django
 ```
 #### Installing from PyPI
 ```bash
   pip install pandas
 ```
-#### Importing Pandas in at your working plateform
+#### Importing Pandas to your working platform
 ```bash
-  import pandas as pd
+  import pandas as PD
 ```
 ## Reference data file
-- [House Data](https://drive.google.com/file/d/11dyXXn0fUOHa2_PyX4b7XwvsoIL2K_Fn/view?usp=sharing)
+- [House Data](https://drive.google.com/file/d/155yUDjrYijy065aK9zw6L0bN9Yx5BvsM/view?usp=sharing)
 
 ## Lessons Learned
-#### What do you learn from this project?
-##### When you are building such kind of code you'll be able to learn about
-- how you can retrive the data from comma saperated (CSV) file...
-- how linear regression model works based upon single features model and multi features model...
-
+#### When you are building such kind of code, you'll be able to learn about
+- How you can retrieve the data from the comma-separated (CSV) file...
+- How you can convert the text data into numeric data for ML model with the help of different-different vectorization method...
+- How does the Naives Bayes Classifier work.
 
 ## ✍️ Skills
 **Language**
@@ -88,7 +89,7 @@
 - Light/dark mode toggle
 - Live previews
 - Fullscreen mode
-- Cross platform
+- Cross-platform
 
 
 ## Documentation
@@ -99,9 +100,9 @@
 
 ## 🤙 Support
 
-For support, email 2019ume1168@mnit.ac.in
+For support, email 2019ume1168@mnit.ac.in.
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a full-stack developer...
 # Hi, I'm Shailesh suthar!!🛠 
