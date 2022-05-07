@@ -20,11 +20,11 @@
 
 
 ## Required Libraries
--**Pandas**
--**Numpy**
--**Sklearn**
--**Matplotlib**
--**Sklearn**
+- **Pandas**
+- **Numpy**
+- **Sklearn**
+- **Matplotlib**
+- **Sklearn**
 ## Reference data file
 - [Sklearn Digit Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html)
 
