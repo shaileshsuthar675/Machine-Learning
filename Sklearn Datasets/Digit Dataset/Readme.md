@@ -20,52 +20,11 @@
 
 
 ## Required Libraries
-
-#### Installing the pandas with the help of Miniconda
-```bash
-  conda create -n name_of_my_env python
-```
-- This will create a minimal environment with only Python installed in it. To put yourself inside this environment, run:
-```bash
-  source activate name_of_my_env
-```
-- On Windows, the command is:
-```bash
-  activate name_of_my_env
-```
-- The final step required is to install pandas. This can be done with the following command:
-```bash
-  conda install pandas
-```
-- To install a specific pandas version:
-```bash
-  conda install pandas=0.20.3
-```
-- To install other packages, IPython, for example:
-```bash
-  conda install ipython
-```
-- To install the full Anaconda distribution:
-```bash
-  conda install anaconda
-```
-- To install the full Anaconda distribution:
-```bash
-  conda install anaconda
-```
-- If you need packages that are available to pip but not conda, then install pip, and then use pip to install those packages:
-```bash
-  conda install pip
-  pip install Django
-```
-#### Installing from PyPI
-```bash
-  pip install pandas
-```
-#### Importing Pandas to your working platform
-```bash
-  import pandas as PD
-```
+-**Pandas**
+-**Numpy**
+-**Sklearn**
+-**Matplotlib**
+-**Sklearn**
 ## Reference data file
 - [Sklearn Digit Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html)
 
