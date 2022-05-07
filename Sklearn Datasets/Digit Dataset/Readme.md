@@ -24,7 +24,7 @@
 - **Numpy**
 - **Sklearn**
 - **Matplotlib**
-- **Sklearn**
+- **Seaborn**
 ## Reference data file
 - [Sklearn Digit Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html)
 
