@@ -24,6 +24,7 @@
 -	What is RSS (Residual sum of the square)?
 -	How to calculate the mean square error and compare the different models to get the best fit model?
 -	How does the multi-model regression works?
+-	And also how to get best fit prediction model with respect to variable parameters with the help of GridSearchCV.
 
 
 ## ✍️ Skills
