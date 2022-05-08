@@ -19,12 +19,12 @@
 
 ## ✍️ Lessons Learned
 #### When you are building such kind of code, you'll be able to learn about
--	How to retrieve the data from the CSV file?
--	How the Regression model works here? I’m using linear regression, decision tree regressor, random forest regressor, and linear support vector regression model.
--	What is RSS (Residual sum of the square)?
--	How to calculate the mean square error and compare the different models to get the best fit model?
--	How does the multi-model regression works?
--	And also how to get best fit prediction model with respect to variable parameters with the help of GridSearchCV.
+-	How to retrieve the data from the **CSV** file?
+-	How the **Regression model** works here? I’m using **linear regression, decision tree regressor, random forest regressor, and linear support vector regression model**.
+-	What is **RSS (Residual sum of the square)**?
+-	How to calculate the **mean square error** and compare the different models to get the best fit model?
+-	How does the **multi-model regression** works?
+-	And also how to get best fit prediction model with respect to variable parameters with the help of **GridSearchCV**.
 
 
 ## ✍️ Skills
